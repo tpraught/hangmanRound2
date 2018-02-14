@@ -1,0 +1,22 @@
+{
+  "name": "hangmanround2",
+  "version": "1.0.0",
+  "description": "NPM packages required for Hangman Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpraught/hangmanRound2.git"
+  },
+  "author": "Tonye Praught",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpraught/hangmanRound2/issues"
+  },
+  "homepage": "https://github.com/tpraught/hangmanRound2#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
